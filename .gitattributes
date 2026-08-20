@@ -1,1 +1,2 @@
 *.vsg,*.png filter=lfs diff=lfs merge=lfs -text
+*.svg,*.png filter=lfs diff=lfs merge=lfs -text
